@@ -9,6 +9,7 @@
 html,body{
     width: 100vw;
     height: 100vh;
-    background-size: cover;
+    background-color: rgb(35, 62, 255);
+    background-size: contain;
     background-repeat: no-repeat;
 }
