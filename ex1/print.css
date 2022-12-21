@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+html{
+    font-family: monospace
+}
+article::after{
+    content: "Esse arquivo foi impresso pelo site de www.silviosfa.com.br";
+}
+
+menu{
+    display: none;
+}
